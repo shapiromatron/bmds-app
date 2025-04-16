@@ -23,3 +23,7 @@ You can start the application by running:
 
 * BMDS Desktop: `~/bmds-ui-25.1/envs/pybmds/bin/bmds-desktop`
 * Jupyter Lab:  `~/bmds-ui-25.1/envs/pybmds/bin/jupyter-lab`
+
+## Windows (TODO)
+
+...
