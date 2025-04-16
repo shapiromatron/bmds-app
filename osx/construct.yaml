@@ -1,0 +1,13 @@
+name: bmds-ui-24.1
+version: 24.1
+company: me
+license_file: EULA.txt
+
+channels:
+  - conda-forge
+
+specs:
+  - uv~=0.6.14
+
+installer_type: pkg
+post_install: test_install.sh
